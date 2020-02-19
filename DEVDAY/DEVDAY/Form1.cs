@@ -17,6 +17,7 @@ namespace DEVDAY
             InitializeComponent();
         }
 
+<<<<<<< HEAD
         private void button_Cep_Click(object sender, EventArgs e)
         {
             Correios.AtendeClienteClient consulta = new Correios.AtendeClienteClient("AtendeClientePort");
@@ -44,6 +45,21 @@ namespace DEVDAY
                     txtuf.Text = ""; ;
                 }
             
+=======
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtnome_TextChanged(object sender, EventArgs e)
+        {
+
+>>>>>>> Lucas
         }
     }
 }
