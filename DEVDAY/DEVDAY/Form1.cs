@@ -16,5 +16,34 @@ namespace DEVDAY
         {
             InitializeComponent();
         }
+
+        private void button_Cep_Click(object sender, EventArgs e)
+        {
+            Correios.AtendeClienteClient consulta = new Correios.AtendeClienteClient("AtendeClientePort");
+
+        
+                try
+                {
+                    var resultado = consulta.consultaCEP(txtcep.Text);
+
+                    if (resultado != null)
+                    {
+                        txtbairro.Text = resultado.bairro;
+                        txtcidade.Text = resultado.cidade;
+                        txtlogradouro.Text = ($"{resultado.end} {resultado.complemento2}");
+                        txtuf.Text = resultado.uf;
+                    }
+                }
+                catch (Exception)
+                {
+                MessageBox.Show("CEP NÂO ENCONTRADO");    
+
+                    txtbairro.Text = "";
+                    txtcidade.Text = "";
+                    txtlogradouro.Text = "";
+                    txtuf.Text = ""; ;
+                }
+            
+        }
     }
 }
