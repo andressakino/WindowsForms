@@ -1,0 +1,11 @@
+C:\Users\JJ\Desktop\WindowsForms\DEVDAY\DEVDAY\bin\Debug\DEVDAY.exe.config
+C:\Users\JJ\Desktop\WindowsForms\DEVDAY\DEVDAY\bin\Debug\DEVDAY.exe
+C:\Users\JJ\Desktop\WindowsForms\DEVDAY\DEVDAY\bin\Debug\DEVDAY.pdb
+C:\Users\JJ\Desktop\WindowsForms\DEVDAY\DEVDAY\bin\Debug\MetroFramework.dll
+C:\Users\JJ\Desktop\WindowsForms\DEVDAY\DEVDAY\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\JJ\Desktop\WindowsForms\DEVDAY\DEVDAY\obj\Debug\DEVDAY.csprojAssemblyReference.cache
+C:\Users\JJ\Desktop\WindowsForms\DEVDAY\DEVDAY\obj\Debug\DEVDAY.Properties.Resources.resources
+C:\Users\JJ\Desktop\WindowsForms\DEVDAY\DEVDAY\obj\Debug\DEVDAY.csproj.GenerateResource.cache
+C:\Users\JJ\Desktop\WindowsForms\DEVDAY\DEVDAY\obj\Debug\DEVDAY.csproj.CopyComplete
+C:\Users\JJ\Desktop\WindowsForms\DEVDAY\DEVDAY\obj\Debug\DEVDAY.exe
+C:\Users\JJ\Desktop\WindowsForms\DEVDAY\DEVDAY\obj\Debug\DEVDAY.pdb
